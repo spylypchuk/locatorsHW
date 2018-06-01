@@ -7,7 +7,7 @@
 
 иконкаДобавленияНовогоСловаря = ".//i[@class='fa fa-plus']"
 
-Словарь 
+Словарь страница
 
 выборДня = "id='deal_dealDate_date_day'"
 выборМесяца = "id='deal_dealDate_date_month'"
