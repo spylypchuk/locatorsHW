@@ -1,0 +1,25 @@
+﻿Гланая страница
+
+установкаКонтрол = ".//span[contains(text(), 'Установка')]"
+
+
+Установка список страница
+
+иконкаДобавленияНовогоСловаря = ".//i[@class='fa fa-plus']"
+
+Словарь 
+
+выборДня = "id='deal_dealDate_date_day'"
+выборМесяца = "id='deal_dealDate_date_month'"
+выборГода = "id='deal_dealDate_date_year'"
+выборЧаса = "id='deal_dealDate_time_hour'"
+выборМинут = "id='deal_dealDate_time_minute'"
+
+
+
+
+
+
+
+
+
