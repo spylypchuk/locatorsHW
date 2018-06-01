@@ -1,19 +1,19 @@
-﻿Гланая страница
+﻿Main Page
 
-установкаКонтрол = ".//span[contains(text(), 'Установка')]"
+instalationControl = ".//span[contains(text(), 'Установка')]"
 
 
-Установка список страница
+Instalations List Screen
 
-иконкаДобавленияНовогоСловаря = ".//i[@class='fa fa-plus']"
+addDictionaryIcon= ".//i[@class='fa fa-plus']"
 
-Словарь страница
+Dictionary Screen
 
-выборДня = "id='deal_dealDate_date_day'"
-выборМесяца = "id='deal_dealDate_date_month'"
-выборГода = "id='deal_dealDate_date_year'"
-выборЧаса = "id='deal_dealDate_time_hour'"
-выборМинут = "id='deal_dealDate_time_minute'"
+dataPicker = "id='deal_dealDate_date_day'"
+monthPicker = "id='deal_dealDate_date_month'"
+yearPicker = "id='deal_dealDate_date_year'"
+timePicker = "id='deal_dealDate_time_hour'"
+minutesPicker = "id='deal_dealDate_time_minute'"
 
 
 
