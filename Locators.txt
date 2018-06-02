@@ -9,6 +9,7 @@ String RegistrationLink = ".//a[@class and text()='Зарегистрирова�
 
 MainPage
 
+String ExplanationTextBody =".//div[@class='box-body']";
 String InstalationControl = ".//span[contains(text(), 'Установка')]";
 
 
