@@ -1,19 +1,19 @@
 ﻿Main Page
 
-instalationControl = ".//span[contains(text(), 'Установка')]"
+String InstalationControl = ".//span[contains(text(), 'Установка')]"
 
 
 Instalations List Screen
 
-addDictionaryIcon= ".//i[@class='fa fa-plus']"
+String AddDictionaryIcon= ".//i[@class='fa fa-plus']"
 
 Dictionary Screen
 
-dataPicker = "id='deal_dealDate_date_day'"
-monthPicker = "id='deal_dealDate_date_month'"
-yearPicker = "id='deal_dealDate_date_year'"
-timePicker = "id='deal_dealDate_time_hour'"
-minutesPicker = "id='deal_dealDate_time_minute'"
+String DataPickerId = "deal_dealDate_date_day"
+String MonthPickerId = "deal_dealDate_date_month"
+String YearPickerId = "deal_dealDate_date_year"
+String TimePickerId = "deal_dealDate_time_hour"
+String MinutesPickerId = "deal_dealDate_time_minute"
 
 
 
