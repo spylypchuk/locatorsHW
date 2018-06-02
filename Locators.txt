@@ -1,4 +1,4 @@
-﻿Login Page
+﻿LoginPage
 
 String LoginFieldName="_username";
 String PasswordInputId="password";
@@ -7,16 +7,16 @@ String RemindPasswordLink = ".//a[text()='Напомнить пароль']";
 String RegistrationLink = ".//a[@class and text()='Зарегистрироваться']";
 
 
-Main Page
+MainPage
 
 String InstalationControl = ".//span[contains(text(), 'Установка')]";
 
 
-Instalations List Screen
+InstalationsListPage
 
 String AddDictionaryIcon= ".//i[@class='fa fa-plus']";
 
-Dictionary Screen
+DictionariesPage
 
 String DataPickerId = "deal_dealDate_date_day";
 String MonthPickerId = "deal_dealDate_date_month";
