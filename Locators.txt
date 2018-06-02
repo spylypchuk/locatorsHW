@@ -1,19 +1,28 @@
-﻿Main Page
+﻿Login Page
 
-String InstalationControl = ".//span[contains(text(), 'Установка')]"
+String LoginFieldName="_username";
+String PasswordInputId="password";
+String SubmitButtonType="submit";
+String RemindPasswordLink = ".//a[text()='Напомнить пароль']";
+String RegistrationLink = ".//a[@class and text()='Зарегистрироваться']";
+
+
+Main Page
+
+String InstalationControl = ".//span[contains(text(), 'Установка')]";
 
 
 Instalations List Screen
 
-String AddDictionaryIcon= ".//i[@class='fa fa-plus']"
+String AddDictionaryIcon= ".//i[@class='fa fa-plus']";
 
 Dictionary Screen
 
-String DataPickerId = "deal_dealDate_date_day"
-String MonthPickerId = "deal_dealDate_date_month"
-String YearPickerId = "deal_dealDate_date_year"
-String TimePickerId = "deal_dealDate_time_hour"
-String MinutesPickerId = "deal_dealDate_time_minute"
+String DataPickerId = "deal_dealDate_date_day";
+String MonthPickerId = "deal_dealDate_date_month";
+String YearPickerId = "deal_dealDate_date_year";
+String TimePickerId = "deal_dealDate_time_hour";
+String MinutesPickerId = "deal_dealDate_time_minute";
 
 
 
